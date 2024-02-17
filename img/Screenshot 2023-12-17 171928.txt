@@ -1,0 +1,36 @@
+href="https://mozilla.org"
+target="_blank" alc="Mozilla" />
+
+cizele" coord:
+
+"https://developer.mozilla.org/"
+target="_blank" alt="MDN" />
+‘poly" coords="130, 6, 253, 96,223, 106,130,39"
+"https://developer .mozilla.org/docs/Web/Guide
+/Gxaphics"
+target="_blank" alt="Graphics" />
+<area shape="poly" coords="253,96,207,241,189,217,223,103"
+href="https://developer.mozilla.0rg/docs/Web/HTML"
+target="_blank" alt="HTML" />
+<area shape="poly" coords="207,241,54,241,72,217,189,217"
+href="https://developer.mozilla.0rg/docs/Web
+/Javaseript"
+target
+
+_blank" alt="Javascripe" />
+
+<area shape="poly" coords="54,241,6,97,36,107,72,217"
+href="https://developer mozilla. crg/docs/Web/API"
+
+blank" alt="Web APIs" />
+
+<area shape="poly" coords="6, 97,130, 6,130,39,36,107"
+
+href="https://developer.mozilla.org/docs/Web/CSS"
+target="_blank" alc="css" />
+
+target
+
+</map>
+<img usemap="#infographic" src="/media/examples/nän-info.png"
+alt="MDN infographie" />
